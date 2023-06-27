@@ -1,0 +1,69 @@
+/* CSS Document */
+h1, h2 {
+	font-weight:400;	
+}
+
+p {
+	font-weight:400;	
+}
+.ui-header {
+	height: 183px;
+	border-bottom-style: none;
+}	
+h2 {
+	margin:0px;
+	padding:0px;	
+	padding-bottom:10px;
+}
+p {
+	margin:0px;
+	padding:0px;	
+	margin-top:0px;
+}
+.coverImage {
+	width: 100%;
+	height: 183px;
+	background-image: url(../images/welcomeTopImageTall@2x.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+h2 {
+	font-family:"futura-pt";
+	font-weight:500;
+	font-size:20px;
+	color:#000;
+	font-style:italic;
+}
+.footerImage {
+	width: 100%;
+	height: 80px;
+	background-image: url(../images/footerBG.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: left bottom;
+}
+a:link {
+	text-decoration: none;
+	color:#004795;
+	letter-spacing:normal;
+	font-weight:400;
+}
+a:visited {
+	text-decoration: none;
+	color:#004795;
+	letter-spacing:normal;
+	font-weight:400;
+}
+a:hover {
+	text-decoration: none;
+	color:#004795;
+	letter-spacing:normal;
+	font-weight:400;
+}
+a:active {
+	text-decoration: none;
+	color:#004795;
+	letter-spacing:normal;
+	font-weight:400;
+}
