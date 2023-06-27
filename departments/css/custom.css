@@ -8,6 +8,10 @@ p {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: .9em;	
 	line-height: 1.5em;
+	margin:0px;
+	padding-top:5px;
+	padding-bottom:5px;
+	margin-top:0px;
 }
 .ui-header {
 	height: 183px;
@@ -18,11 +22,7 @@ h2 {
 	padding:0px;	
 	padding-bottom:10px;
 }
-p {
-	margin:0px;
-	padding:0px;	
-	margin-top:0px;
-}
+
 .coverImage {
 	width: 100%;
 	height: 183px;
@@ -69,4 +69,20 @@ a:active {
 	color:#004896;
 	letter-spacing:normal;
 	font-weight:400;
+}
+
+ul li {
+
+	font-weight:400;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: .9em;	
+	line-height: 1.5em;
+	margin:0px;
+	padding-top:5px;
+	padding-bottom:5px;
+	margin-top:0px;
+}
+
+i {
+	color: #20abc6;
 }
